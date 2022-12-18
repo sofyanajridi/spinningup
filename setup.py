@@ -15,7 +15,7 @@ setup(
     version=__version__,#'0.1',
     install_requires=[
         'cloudpickle==1.2.1',
-        'gym=0.15.3',
+        'gym==0.15.3',
         'ipython',
         'joblib',
         'matplotlib==3.1.1',
